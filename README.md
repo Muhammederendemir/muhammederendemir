@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 📝 I regularly write articles on [https://muhammederendemir/blog](https://muhammederendemir/blog)
+- 📝 I regularly write articles on [https://muhammederendemir/blog](https://muhammederendemir.com/blog)
 
 - 📫 How to reach me **mhmmderen3@gmail.com**
 
-- 📄 Know about my experiences [https://muhammederendemir](https://muhammederendemir)
+- 📄 Know about my experiences [https://muhammederendemir](https://muhammederendemir.com)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
